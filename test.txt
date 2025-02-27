@@ -1,0 +1,8 @@
+ABC
+DEF
+GHI
+apple
+banana
+cherry
+date
+elderberry
